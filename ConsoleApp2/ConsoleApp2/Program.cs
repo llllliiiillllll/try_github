@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace ConsoleApp3
+namespace ConsoleApp2
 {
     class Program
     {
@@ -8,7 +8,7 @@ namespace ConsoleApp3
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Hello GitHub!");
-            Console.WriteLine("画面を閉じるには何かキーを入力してください。");
+            Console.WriteLine("画面");
             Console.ReadKey();
         }
     }
